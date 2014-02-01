@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/padding_5dp"
     android:paddingRight="@dimen/padding_5dp"
     android:paddingTop="@dimen/padding_5dp"
-    tools:context=".KanhaiCounter" >
+    tools:context=".KanhaiCounterActivity" >
 
     <Button
         android:id="@+id/createNewCounter"
