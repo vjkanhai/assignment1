@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kanhai Counter</string>
+    <string name="newCounter">Create New Counter</string>
+    <string name="settings">Settings</string>
+    <string name="reset_counter">Reset</string>
+    <string name="edit_counter">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="clearCounters">Clear All Counters</string>
+    <string name="sort_by">Sort Counters By</string>
+    <string name="total_count">Total count</string>
+    <string name="counts_per_hour">Counts per hour</string>
+    <string name="counts_per_day">Counts per day</string>
+    <string name="counts_per_month">Counts per month</string>
+    <string name="counter_name">Counter name</string>
+    <string name="counter_name_edit_text">Enter counter name</string>
+
+</resources>
