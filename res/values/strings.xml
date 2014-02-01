@@ -16,5 +16,12 @@
     <string name="counts_per_month">Counts per month</string>
     <string name="counter_name">Counter name</string>
     <string name="counter_name_edit_text">Enter counter name</string>
+    
+    <string-array name="sortBy">
+	    <item>Total count</item>
+	    <item>Counts per hour</item>
+	    <item>Counts per day</item>
+	    <item>Counts per month</item>
+	</string-array>
 
 </resources>
